@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DareDevil56
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
+- 🌱 I’m currently learning C and C++
+- 💞️ I’m looking to collaborate on C and C++
 - 📫 You can reach me at:
 https://www.linkedin.com/in/pankaj-gond-733b40228
 <!---
