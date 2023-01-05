@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DareDevil56
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Dart and Flutter Framework
-- 💞️ I’m looking to collaborate on Android DEvelopment using Flutter.
+- 💞️ I’m looking to collaborate on Android Development using Flutter.
 - 📫 You can reach me at:
 https://www.linkedin.com/in/pankaj-gond-733b40228
 <!---
