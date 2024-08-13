@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Pankaj Gond!
 
-![Banner](https://your-banner-url.com/banner-image)
 
 ## 🚀 About Me
 
@@ -10,7 +9,6 @@ I'm a passionate Full Stack Developer currently pursuing my bachelor's degree in
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 🤔 I’m looking for help with **Advanced DevOps Practices**.
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, Mongoose, and Hooks**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [Email](mailto:your-email@example.com)
 
 ## 🛠️ Tech Stack
 
@@ -30,8 +28,8 @@ I'm a passionate Full Stack Developer currently pursuing my bachelor's degree in
 
 ## 📈 Contribution Graph
 
-![Pankaj's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+![Pankaj's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DareDevil56&theme=react-dark)
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-linkedin-profile) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/your-twitter-handle) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/pankajgond) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/your-twitter-handle) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:pankajgond741@gmail.com)
