@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer currently pursuing my bachelor's degree in
 
 ## 📈 Contribution Graph
 
-![Pankaj's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DareDevil56&theme=react-dark)
+![Pankaj's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DareDevil56&theme=react-dark)
 
 ## 🔗 Let's Connect
 
