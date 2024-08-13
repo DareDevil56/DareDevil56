@@ -18,13 +18,13 @@ I'm a passionate Full Stack Developer currently pursuing my bachelor's degree in
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Pankaj's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+![Pankaj's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical) -->
 
 ## 📈 Contribution Graph
 
@@ -32,4 +32,4 @@ I'm a passionate Full Stack Developer currently pursuing my bachelor's degree in
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/pankajgond) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/your-twitter-handle) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:pankajgond741@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/pankajgond) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/Pankajgond_) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:pankajgond741@gmail.com)
