@@ -26,9 +26,9 @@ I'm a passionate Full Stack Developer currently pursuing my bachelor's degree in
 
 ![Pankaj's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical) -->
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
-![Pankaj's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DareDevil56&theme=react-dark)
+![Pankaj's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DareDevil56&theme=react-dark) -->
 
 ## 🔗 Let's Connect
 
